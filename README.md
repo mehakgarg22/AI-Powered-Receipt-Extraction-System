@@ -27,3 +27,5 @@ A system designed to extract structured information (Store Name, Date, Total Amo
 - **Varying Layouts:** Implemented flexible regex to catch amounts regardless of currency symbols or line position.
 
 live link : https://colab.research.google.com/drive/1RHegfqrx3uUem6ld3xnFYzTo2LX02X5t?usp=sharing
+write up documentation : https://docs.google.com/document/d/1kG0FKN2O9n1cYZectYpur7dykxgKOY8TuSf6yEqfG9w/edit?usp=sharing
+
