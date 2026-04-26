@@ -1,0 +1,6309 @@
+[
+    {
+        "file": "X51005361912.jpg",
+        "data": {
+            "store_name": {
+                "value": "a",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "29/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "1.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005745214.jpg",
+        "data": {
+            "store_name": {
+                "value": "FS OR Ee",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "07-02-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005447848.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "06/01/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005757349.jpg",
+        "data": {
+            "store_name": {
+                "value": "21803053",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "21.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X00016469669.jpg",
+        "data": {
+            "store_name": {
+                "value": "tan chay yee",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "09/01/2019",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005719882.jpg",
+        "data": {
+            "store_name": {
+                "value": "ee Tver re Ye weer rer. ewer Te",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "17-02-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005676537.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "03/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "89.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005717526.jpg",
+        "data": {
+            "store_name": {
+                "value": "y",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "02/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005742068.jpg",
+        "data": {
+            "store_name": {
+                "value": "BHPetrol Palekbang",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "24-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005587261.jpg",
+        "data": {
+            "store_name": {
+                "value": "CHOP YEW LIAN",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "23/03/17",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005711445.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "7.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005763940.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "00-88-5200",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005605295.jpg",
+        "data": {
+            "store_name": {
+                "value": "&",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "22/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.05",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005433553.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "11/0/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005605286.jpg",
+        "data": {
+            "store_name": {
+                "value": "of",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "09/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "5.90",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005712021.jpg",
+        "data": {
+            "store_name": {
+                "value": ". 2",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "20/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005806716.jpg",
+        "data": {
+            "store_name": {
+                "value": "ADVANCO COMPANY",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005676549.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "02/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005724627.jpg",
+        "data": {
+            "store_name": {
+                "value": ", R",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "31/03/2078",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "165.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005433541.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "8.20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005757199.jpg",
+        "data": {
+            "store_name": {
+                "value": "3/8&0400)",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "01/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005806718.jpg",
+        "data": {
+            "store_name": {
+                "value": "HUGO TRADING SDN BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "19/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005442343.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "13/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005447850.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "04/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005749904.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005442344.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "13/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005711452.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "21/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005568913.jpg",
+        "data": {
+            "store_name": {
+                "value": "EL lll eee",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005268408.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005741944.jpg",
+        "data": {
+            "store_name": {
+                "value": "i",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "18-01-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005663307.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "09/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005442383.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "13.80",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005230659.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "06/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "8.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005361895.jpg",
+        "data": {
+            "store_name": {
+                "value": "cudd shies",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "25/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005746206.jpg",
+        "data": {
+            "store_name": {
+                "value": "PANA JAYA ENTEAPAISE",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "21-03-8018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "105.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005749895.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "02-03-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005724628.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "10/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "80.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005675095.jpg",
+        "data": {
+            "store_name": {
+                "value": "SOLARIS",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "14/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "14.11",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005677334.jpg",
+        "data": {
+            "store_name": {
+                "value": "SYARIKAT PERNIAGAAN GIN KEE",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "31/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "78.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005230605.jpg",
+        "data": {
+            "store_name": {
+                "value": "PETRON BKT LANJAN SB",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "01/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005749912.jpg",
+        "data": {
+            "store_name": {
+                "value": "2",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005806698.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "28/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "9.85",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005724625.jpg",
+        "data": {
+            "store_name": {
+                "value": "R",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "267.80",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005719888.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "04/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "30,80",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005442338.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "19/03/16",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "28.80",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005719862.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "03-02-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005676541.jpg",
+        "data": {
+            "store_name": {
+                "value": "toe",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "03/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "89.50",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005444033.jpg",
+        "data": {
+            "store_name": {
+                "value": "i oe FO ey Pas ago",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "77,20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005677328.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "5.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005663272.jpg",
+        "data": {
+            "store_name": {
+                "value": "Be Sip 012",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "04/12/17",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "42.40",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005433548.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005711403.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "19-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "9.10",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005715010.jpg",
+        "data": {
+            "store_name": {
+                "value": "3-1708032",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "3.jpg",
+        "data": {
+            "store_name": {
+                "value": "See baci",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005685355.jpg",
+        "data": {
+            "store_name": {
+                "value": "3180301",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "19/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005711456.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "31-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005742110.jpg",
+        "data": {
+            "store_name": {
+                "value": "YONG CEN ENTERPRISE",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "06/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "65.70",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005301666.jpg",
+        "data": {
+            "store_name": {
+                "value": "LIGHTROOM GALLERY SDN BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "20/11/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X00016469619.jpg",
+        "data": {
+            "store_name": {
+                "value": "tan woon yann",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "19/10/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005605284.jpg",
+        "data": {
+            "store_name": {
+                "value": "ADVANCO COMPANY",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "23/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "78.30",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005719873.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "21/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005806695.jpg",
+        "data": {
+            "store_name": {
+                "value": "JUWITA WEDDINGS (366310-U)",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005745187.jpg",
+        "data": {
+            "store_name": {
+                "value": "yr sens SOLD ARE NOT RETURNABLE, (H8ta YOU",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005711449.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "4.80",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005582745.jpg",
+        "data": {
+            "store_name": {
+                "value": "NOU, PTi86as,, TALAN JAMBU MELAKA 2,",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "04/12/2016",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "8.49",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005605335.jpg",
+        "data": {
+            "store_name": {
+                "value": "POPULAR BOOK",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12/01/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005745298.jpg",
+        "data": {
+            "store_name": {
+                "value": "YY UCE CE eT Cay Terre eee te tS ee SS",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "31-03-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005719895.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "1/8/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005719863.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "18.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005568911.jpg",
+        "data": {
+            "store_name": {
+                "value": "MR. D.I.\u00a5. (KUCHAT) SDN BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "21-41-71",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "14.jpg",
+        "data": {
+            "store_name": {
+                "value": "See back of receipt for your chance",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "0.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "5.89",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005442382.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "6.60",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005442334.jpg",
+        "data": {
+            "store_name": {
+                "value": "A03)2.&",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "8.20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005442394.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "8.20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005441402.jpg",
+        "data": {
+            "store_name": {
+                "value": "THREE STOOGES",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "03/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005361906.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "25.80",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005663324.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "28/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "439.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005663309.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005676540.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "11/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "109.70",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005577191.jpg",
+        "data": {
+            "store_name": {
+                "value": "2",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "7/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "9,43",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X00016469623.jpg",
+        "data": {
+            "store_name": {
+                "value": "tan woon yann",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "18-11-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005361907.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005433556.jpg",
+        "data": {
+            "store_name": {
+                "value": "VHM Aeon Tebrau City",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "11/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005568889.jpg",
+        "data": {
+            "store_name": {
+                "value": "PO",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "11/02/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "18.49",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "16.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "11/13/17",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005453801.jpg",
+        "data": {
+            "store_name": {
+                "value": "3180303",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005757342.jpg",
+        "data": {
+            "store_name": {
+                "value": "31803044",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "23-03-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005268200.jpg",
+        "data": {
+            "store_name": {
+                "value": "x",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "15/06/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005719902.jpg",
+        "data": {
+            "store_name": {
+                "value": "eo ee ee ee ee ee a ee",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "11/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "25.15",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005444041.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "08/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "81.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005568900.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "28-12-17",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005361883.jpg",
+        "data": {
+            "store_name": {
+                "value": "IFS",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "18/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "4.60",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005715007.jpg",
+        "data": {
+            "store_name": {
+                "value": "3-1708032",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "25-03-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005365179.jpg",
+        "data": {
+            "store_name": {
+                "value": "3-1707067",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "01-03-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "20.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005230616.jpg",
+        "data": {
+            "store_name": {
+                "value": "B psez.",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "18/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005745249.jpg",
+        "data": {
+            "store_name": {
+                "value": "ee",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "27/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005724554.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "28/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "96.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005447832.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "38/02/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005268262.jpg",
+        "data": {
+            "store_name": {
+                "value": "HOME MASTER HARDWARE &",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "22/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "34.10",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005757243.jpg",
+        "data": {
+            "store_name": {
+                "value": "3180300",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "11/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005663273.jpg",
+        "data": {
+            "store_name": {
+                "value": "2.)",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "04/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "45.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005711404.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "14-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "4.80",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005442346.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "15/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005442333.jpg",
+        "data": {
+            "store_name": {
+                "value": "A209",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "6.90",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "20.png",
+        "data": {
+            "store_name": {
+                "value": "@ DOLLAR TREE.",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "9/17/22",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "25.44",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "9.jpg",
+        "data": {
+            "store_name": {
+                "value": "Yolanta",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "09/08/14",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005675914.jpg",
+        "data": {
+            "store_name": {
+                "value": "BEYOND BROTHERS HARDWARE",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "11.jpg",
+        "data": {
+            "store_name": {
+                "value": "WHOLE",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005605333.jpg",
+        "data": {
+            "store_name": {
+                "value": "POPULAR BOOK.",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "7/01/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005719864.jpg",
+        "data": {
+            "store_name": {
+                "value": "FUN N CHEER (MALURD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "08/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "7.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "11/13/17",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005675104.jpg",
+        "data": {
+            "store_name": {
+                "value": "\u2014\u2014 lO ee",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "26/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "180.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005433543.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "8.20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005605332.jpg",
+        "data": {
+            "store_name": {
+                "value": "POPULAR BOOK",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "14/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005677327.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "01/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "34.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005677335.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "24/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "70.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "4.jpg",
+        "data": {
+            "store_name": {
+                "value": "Walmart >'<",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12/08/15",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005746204.jpg",
+        "data": {
+            "store_name": {
+                "value": "BEND (SP) SDM. BHD.",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "308.70",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005712039.jpg",
+        "data": {
+            "store_name": {
+                "value": "L TWO FLORIST & HANDICRAFT",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "21/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "9.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005757290.jpg",
+        "data": {
+            "store_name": {
+                "value": "21803040",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "17-03-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005676543.jpg",
+        "data": {
+            "store_name": {
+                "value": "i ?",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "02/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "12.50",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005719814.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "17/1/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005361898.jpg",
+        "data": {
+            "store_name": {
+                "value": "EO HENG STATIONERY & BOOKS",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "15/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005705760.jpg",
+        "data": {
+            "store_name": {
+                "value": "MYDIN",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "10/08/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005663300.jpg",
+        "data": {
+            "store_name": {
+                "value": "4 \\2 0d 013,",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "02/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005442376.jpg",
+        "data": {
+            "store_name": {
+                "value": "Ao Zip",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "7.60",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005441398.jpg",
+        "data": {
+            "store_name": {
+                "value": "BREWERY TAF",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "30/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "189.75",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005568892.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "24,52",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005719893.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "18-01-05",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "10.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005268400.jpg",
+        "data": {
+            "store_name": {
+                "value": "RESTORAN HASSANBISTRO",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12/28/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005677333.jpg",
+        "data": {
+            "store_name": {
+                "value": "3 1PO3d0IG",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "31/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "96.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005757346.jpg",
+        "data": {
+            "store_name": {
+                "value": "3180305]",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "23-03-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005705729.jpg",
+        "data": {
+            "store_name": {
+                "value": "ASO ELECTRICAL TRADING SDN BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "13/10/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "89.26",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005442378.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "23/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "10.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005568829.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "02/02/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "20.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "13.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "50.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005663297.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "14/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005442392.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "7.40",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X00016469676.jpg",
+        "data": {
+            "store_name": {
+                "value": "tan chay yee",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "23-01-2019",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "20.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005711451.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "05-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "6.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "19.jpg",
+        "data": {
+            "store_name": {
+                "value": "Icive. us feedback @",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005568880.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "8-04-06",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005568895.jpg",
+        "data": {
+            "store_name": {
+                "value": "VIVOPAC MARKETING SDN BHD (1070687-M)",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "13/09/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005444045.jpg",
+        "data": {
+            "store_name": {
+                "value": "ne ee a ey ae",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "19-03-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005763958.jpg",
+        "data": {
+            "store_name": {
+                "value": "SUPER SEVEN C4SH & CARRY SDN BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "27-01-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005724626.jpg",
+        "data": {
+            "store_name": {
+                "value": ". R",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005745296.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "09-04-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005677339.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "08/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "66.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005442386.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "8.70",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X00016469612.jpg",
+        "data": {
+            "store_name": {
+                "value": "tan woon yann",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "91,00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005710963.jpg",
+        "data": {
+            "store_name": {
+                "value": "TS TOOLS HARDWARE & RACHINERT SOR DED",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "21/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.42",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005200938.jpg",
+        "data": {
+            "store_name": {
+                "value": "Ad>odige",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "18.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005746203.jpg",
+        "data": {
+            "store_name": {
+                "value": "/ SUPER SEVEN CASH & th. SDN BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "01-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005715456.jpg",
+        "data": {
+            "store_name": {
+                "value": "3-1708032",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "22/03/2078",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "96.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005568898.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "30/05/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005676548.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "16/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "10.50",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005724623.jpg",
+        "data": {
+            "store_name": {
+                "value": "(sy ry)",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "295.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005337877.jpg",
+        "data": {
+            "store_name": {
+                "value": "MPR Tet ho yews:",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "20/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "53.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005301659.jpg",
+        "data": {
+            "store_name": {
+                "value": "HOME MASTER HARDWARE &",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "22/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "34.10",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005453802.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "200.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005303661.jpg",
+        "data": {
+            "store_name": {
+                "value": "LIGHTROOM GALLERY SDN BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "20/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005705722.jpg",
+        "data": {
+            "store_name": {
+                "value": "ASO ELECTRICAL TRADING SDN BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "27/09/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "248.05",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005724621.jpg",
+        "data": {
+            "store_name": {
+                "value": "ee ee",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "06/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "120.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005757292.jpg",
+        "data": {
+            "store_name": {
+                "value": "31\u00a3030\u00a2,/",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "18-03-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005447839.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "9/3/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005764154.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "25-01-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "205.50",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005587267.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "4/02/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005711447.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "14-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "2.30",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005757273.jpg",
+        "data": {
+            "store_name": {
+                "value": "31803033.",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12-03-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005441407.jpg",
+        "data": {
+            "store_name": {
+                "value": "Geoventure",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "5/3/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005763999.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005433522.jpg",
+        "data": {
+            "store_name": {
+                "value": "43030",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "8.20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005361900.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "23/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "16.98",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005711441.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "21-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "6.70",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005806719.jpg",
+        "data": {
+            "store_name": {
+                "value": "POSTED aay",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "13/01/2015",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005433492.jpg",
+        "data": {
+            "store_name": {
+                "value": "AO3018",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "8.20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005447840.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "14/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005757233.jpg",
+        "data": {
+            "store_name": {
+                "value": "$18040/6",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "09/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.05",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "5.jpg",
+        "data": {
+            "store_name": {
+                "value": "Sunnyvale SVL 40% 419 1290",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "9/15/2020",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005719905.jpg",
+        "data": {
+            "store_name": {
+                "value": "SAINT HEART PASTRY",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "26/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "7.74",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005745213.jpg",
+        "data": {
+            "store_name": {
+                "value": "MUR HENG ELECTRICAL &",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005568866.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "20/08/17",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005745190.jpg",
+        "data": {
+            "store_name": {
+                "value": "SUPER SEVEN CASH & CARRY SDN BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12-02-2618",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005806702.jpg",
+        "data": {
+            "store_name": {
+                "value": "Cash Sale",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "03-18/1999",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005705784.jpg",
+        "data": {
+            "store_name": {
+                "value": "| CEDAI BUKU NEW ACHEIVERS \u00a9",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "15/09/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "45.28",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005719917.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "26/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "17.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005605334.jpg",
+        "data": {
+            "store_name": {
+                "value": "re",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "29/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005605287.jpg",
+        "data": {
+            "store_name": {
+                "value": "Agee",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "14/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "11,55",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005444040.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "09/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "133.70",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005705804.jpg",
+        "data": {
+            "store_name": {
+                "value": "ASO ELECTRICAL TRADING SDN BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "04/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "93.40",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005719874.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "18/02/22",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005711442.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "16-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "9.60",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005684949.jpg",
+        "data": {
+            "store_name": {
+                "value": "3180203",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "26-02-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005764031.jpg",
+        "data": {
+            "store_name": {
+                "value": ": |",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "01-62-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005568887.jpg",
+        "data": {
+            "store_name": {
+                "value": "\u2018HON HWA HARDWARE TRADING",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "26/04/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "7.20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005301661.jpg",
+        "data": {
+            "store_name": {
+                "value": "LIGHTROOM GALLERY SDN BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "20/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005568914.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005663323.jpg",
+        "data": {
+            "store_name": {
+                "value": "KOH SENG HARDWARE",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "04/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "648.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005433518.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "8.20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005715455.jpg",
+        "data": {
+            "store_name": {
+                "value": "3-1708032",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005719857.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "19-02-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005712038.jpg",
+        "data": {
+            "store_name": {
+                "value": "SWC ENTERPRISE SDN BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "28/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005676547.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "13/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "12.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005230657.jpg",
+        "data": {
+            "store_name": {
+                "value": "CROSS CHANNEL NEiWORK SDN. BHD.",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "31/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "15.jpg",
+        "data": {
+            "store_name": {
+                "value": "Ac rack oF of receipt For your ee ase",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "07/22/16",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005806692.jpg",
+        "data": {
+            "store_name": {
+                "value": "Tax Invoice",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "18/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "17.jpg",
+        "data": {
+            "store_name": {
+                "value": "See back of receipt for your chance",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "01/18/17",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "2.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005361897.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "17/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005577192.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "04/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.40",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005568894.jpg",
+        "data": {
+            "store_name": {
+                "value": "VIVOPAC MARKETING SDN BHD (1070687-M)",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "7/01/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005757248.jpg",
+        "data": {
+            "store_name": {
+                "value": "21803022",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "42,47",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005663274.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "08/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005746207.jpg",
+        "data": {
+            "store_name": {
+                "value": "SUPER SEVEN CASH & CARRY SDN BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "21-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005337872.jpg",
+        "data": {
+            "store_name": {
+                "value": "SYL ROASTED DELIGHTS SDN. BHD.",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "06/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005724624.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "128.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005453729.jpg",
+        "data": {
+            "store_name": {
+                "value": "3180303",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "27/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005444044.jpg",
+        "data": {
+            "store_name": {
+                "value": "99 SPEED MART S/B (519537-X)",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "10-03-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005663310.jpg",
+        "data": {
+            "store_name": {
+                "value": "gh 9 2\u00b013\"",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "09/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005447861.jpg",
+        "data": {
+            "store_name": {
+                "value": "\u2014\u2014 ll",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "01/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005757304.jpg",
+        "data": {
+            "store_name": {
+                "value": "1202044",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "20/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005724552.jpg",
+        "data": {
+            "store_name": {
+                "value": "KEDAI PAPAN YEW CHUAN",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "65.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005442379.jpg",
+        "data": {
+            "store_name": {
+                "value": "M2116",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "9.20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005719823.jpg",
+        "data": {
+            "store_name": {
+                "value": "i iis",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "29/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "46.20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005433538.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "8.20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "2.jpg",
+        "data": {
+            "store_name": {
+                "value": "Give us feedback @ survey.walmart.com",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "10/18/20",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005442388.jpg",
+        "data": {
+            "store_name": {
+                "value": "A03 (26",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "20/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005621482.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "20/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005568827.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "29-10-2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005442366.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "22-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X00016469671.jpg",
+        "data": {
+            "store_name": {
+                "value": "tan chay yee",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "02/01/2019",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "170.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "21.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "2/20/14",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005677332.jpg",
+        "data": {
+            "store_name": {
+                "value": ". pgo2 ole .",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "1.jpg",
+        "data": {
+            "store_name": {
+                "value": "TRADER JOE'S",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "06-28-2014",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005568890.jpg",
+        "data": {
+            "store_name": {
+                "value": "HON HWA HARDWARE TRADING",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "4.72",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005764161.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005587254.jpg",
+        "data": {
+            "store_name": {
+                "value": "TRI SHAAS SDN BHD (728515-M)",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "13/03/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "5.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005306399.jpg",
+        "data": {
+            "store_name": {
+                "value": "4",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "18/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005361923.jpg",
+        "data": {
+            "store_name": {
+                "value": "SWC ENTERPRISE SDN RAD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "92/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005444046.jpg",
+        "data": {
+            "store_name": {
+                "value": "STAR GROCER SDN BHD (1171881-W)",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "25/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "66.15",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005724622.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "07/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "86.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005288570.jpg",
+        "data": {
+            "store_name": {
+                "value": "3180301",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005442327.jpg",
+        "data": {
+            "store_name": {
+                "value": "Oe",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "8.60",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005663279.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "28/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "140.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005806678.jpg",
+        "data": {
+            "store_name": {
+                "value": "KAISON FURNISHING SDN BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "29-01-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005663278.jpg",
+        "data": {
+            "store_name": {
+                "value": "2181) 012",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "23/12/17",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005711401.jpg",
+        "data": {
+            "store_name": {
+                "value": ",-",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "19-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "6.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005806679.jpg",
+        "data": {
+            "store_name": {
+                "value": "LEE WAH FLORIS) y SDN BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "92/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "983.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005757294.jpg",
+        "data": {
+            "store_name": {
+                "value": "31803Z0q)",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "22-52-62",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005745244.jpg",
+        "data": {
+            "store_name": {
+                "value": "Subway#42219-0 Phone 03-78870693",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "14/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005711444.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "21-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "4.80",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005757351.jpg",
+        "data": {
+            "store_name": {
+                "value": "318 02054",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "23-33-53",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005255805.jpg",
+        "data": {
+            "store_name": {
+                "value": "SAM SAM TRADING CO",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "29-12-2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005433494.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005676536.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "02/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "87.80",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "12.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005447852.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "20-02-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005676544.jpg",
+        "data": {
+            "store_name": {
+                "value": "ee",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "02/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "2.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005722699.jpg",
+        "data": {
+            "store_name": {
+                "value": "A",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "11/02/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005268275.jpg",
+        "data": {
+            "store_name": {
+                "value": "LIGHTROOM GALLERY SDN BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "20/11/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005711443.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "23-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "6.70",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005447842.jpg",
+        "data": {
+            "store_name": {
+                "value": "F oer ae e/a",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "14/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005663277.jpg",
+        "data": {
+            "store_name": {
+                "value": "SYARIKAT PERNIAGAAN GIN KEE",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "02/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "28.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005230621.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "08/08/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005447851.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "30/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005663276.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "02/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005685357.jpg",
+        "data": {
+            "store_name": {
+                "value": "3180301",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "02/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005757308.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12-21-22",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005676534.jpg",
+        "data": {
+            "store_name": {
+                "value": "2 (8,01 O1F",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "03/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "68.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005663311.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "09/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005663280.jpg",
+        "data": {
+            "store_name": {
+                "value": "Z2131Id0}2",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "30/10/17",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "102.40",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005444037.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "00-88-6555",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "129.30",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005301667.jpg",
+        "data": {
+            "store_name": {
+                "value": "HD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "20/11/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005711454.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.05",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005441401.jpg",
+        "data": {
+            "store_name": {
+                "value": "HREE STOOGES",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "343.95",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005719903.jpg",
+        "data": {
+            "store_name": {
+                "value": "\u2014\u2014 SS",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "11/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005568899.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005719904.jpg",
+        "data": {
+            "store_name": {
+                "value": "Yam Fresh",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "18-03-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005568884.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "24-11-17",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005719883.jpg",
+        "data": {
+            "store_name": {
+                "value": "a",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "17-02-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005442322.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "269.40",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005447833.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "21/02/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005724629.jpg",
+        "data": {
+            "store_name": {
+                "value": "Cele R",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "165.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005453804.jpg",
+        "data": {
+            "store_name": {
+                "value": "3180303",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "20.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005719896.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "14-01-2016",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "5.90",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005757324.jpg",
+        "data": {
+            "store_name": {
+                "value": "3(&0205++ 5",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "25-03-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005719898.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "19-03-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005361950.jpg",
+        "data": {
+            "store_name": {
+                "value": "NR",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "24-01-18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005230648.jpg",
+        "data": {
+            "store_name": {
+                "value": "CROSS CHANNEL NETWORK SDN. BHD.",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "29/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005447841.jpg",
+        "data": {
+            "store_name": {
+                "value": "PASARAYA BORONG PINTAR",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "09/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005663317.jpg",
+        "data": {
+            "store_name": {
+                "value": "| ZS iJoy2 . .",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "29/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005719855.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "19/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "181.55",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005757323.jpg",
+        "data": {
+            "store_name": {
+                "value": "21802060",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005675099.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "20/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005745188.jpg",
+        "data": {
+            "store_name": {
+                "value": "f)",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "02/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "42.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005568881.jpg",
+        "data": {
+            "store_name": {
+                "value": "i ag",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "21/09/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "10.40",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005447844.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "23/2/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005442341.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "09/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005361908.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "16/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "127.20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X00016469620.jpg",
+        "data": {
+            "store_name": {
+                "value": "tan woon yann",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12-01-19",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005675103.jpg",
+        "data": {
+            "store_name": {
+                "value": "SYARIKAT PERNIAGAAN GIN KEE",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "04/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "94.50",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005712017.jpg",
+        "data": {
+            "store_name": {
+                "value": "Gerbang Alaf Restaurants Sdn Bhd",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "18/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005268472.jpg",
+        "data": {
+            "store_name": {
+                "value": "A MART",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005676542.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "29/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "10.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005361946.jpg",
+        "data": {
+            "store_name": {
+                "value": "ot PERINDUSTRIAN BA AKON,",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005719914.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "11/3-21",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005447853.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005757201.jpg",
+        "data": {
+            "store_name": {
+                "value": "31803003",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "28/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "83,93",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005568855.jpg",
+        "data": {
+            "store_name": {
+                "value": "POPULAR BOOK",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "23/12/17",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005711446.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "10-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "7.20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X00016469670.jpg",
+        "data": {
+            "store_name": {
+                "value": "tan chay yee",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "15/01/2019",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005757282.jpg",
+        "data": {
+            "store_name": {
+                "value": "Bete pee",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12/09/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "24.50",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005337867.jpg",
+        "data": {
+            "store_name": {
+                "value": "Sy Lee.",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "30.25",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005719856.jpg",
+        "data": {
+            "store_name": {
+                "value": "baskin 3 fF ropbins",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "18/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "21.60",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005433533.jpg",
+        "data": {
+            "store_name": {
+                "value": "FO3o",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "09/08/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005442384.jpg",
+        "data": {
+            "store_name": {
+                "value": "1:",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "8.20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005746210.jpg",
+        "data": {
+            "store_name": {
+                "value": "\u2018Pp )",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005230617.jpg",
+        "data": {
+            "store_name": {
+                "value": "\\LL A",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "18/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005806696.jpg",
+        "data": {
+            "store_name": {
+                "value": "IMAGE PRINTEC (M) SON BHD",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "23/02/2918",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005676538.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "04/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "42.20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X00016469672.jpg",
+        "data": {
+            "store_name": {
+                "value": "tan chay yee",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "11/01/2019",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "8.jpg",
+        "data": {
+            "store_name": {
+                "value": "Thornton #629",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005663293.jpg",
+        "data": {
+            "store_name": {
+                "value": "ye C3|",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "14-02-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005447859.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "14/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "6.JPG",
+        "data": {
+            "store_name": {
+                "value": "MOMI & TOY\u2019S",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "26/01/2016",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005719886.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "28.70",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005806703.jpg",
+        "data": {
+            "store_name": {
+                "value": "Cash Saie",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "04-18/6842",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005745183.jpg",
+        "data": {
+            "store_name": {
+                "value": "t",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "22/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005722668.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "01/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "19.34",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005676546.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "11/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005433552.jpg",
+        "data": {
+            "store_name": {
+                "value": "Ao %",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "19/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005677331.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "03/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "57.50",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005715451.jpg",
+        "data": {
+            "store_name": {
+                "value": "3-1708032",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "06/02/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005676539.jpg",
+        "data": {
+            "store_name": {
+                "value": "a es ES \u2014\u2014\u2014 ll",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "10/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "22.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X00016469622.jpg",
+        "data": {
+            "store_name": {
+                "value": "tan woon yann",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "26/12/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "80.91",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005741929.jpg",
+        "data": {
+            "store_name": {
+                "value": "MyMydin Subang Bestari 2300",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "16/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "5.50",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005719906.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "105.08",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005568885.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005719889.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "04/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005724611.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "27/03/2078",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005677337.jpg",
+        "data": {
+            "store_name": {
+                "value": "41g o201-&",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "02/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "88.80",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005447860.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "19/62/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "16.71",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005757286.jpg",
+        "data": {
+            "store_name": {
+                "value": "31802034",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "10/10/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005568891.jpg",
+        "data": {
+            "store_name": {
+                "value": "\u2014_mCLU",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "08/02/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "261.32",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005711402.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "17-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "9.60",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005677336.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "27/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "21.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005806685.jpg",
+        "data": {
+            "store_name": {
+                "value": "ADVANCO COMPANY",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "17/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005365187.jpg",
+        "data": {
+            "store_name": {
+                "value": "3-1707067",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "02/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "30.68",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005433514.jpg",
+        "data": {
+            "store_name": {
+                "value": "Dow.",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "8.20",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005711453.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "10/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005705727.jpg",
+        "data": {
+            "store_name": {
+                "value": "Receipt #: _CS00310146",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "28/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "36.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005746140.jpg",
+        "data": {
+            "store_name": {
+                "value": "cP)",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "02/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "63.35",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005663298.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "21-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005676545.jpg",
+        "data": {
+            "store_name": {
+                "value": "3 \\Gor Olt",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "13/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "6.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005442397.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "26-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005757235.jpg",
+        "data": {
+            "store_name": {
+                "value": "3/80401F",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "09/03/2918",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "29.24",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005719912.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "04/03/18",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "12.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005200931.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "09/02/2078",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005763964.jpg",
+        "data": {
+            "store_name": {
+                "value": "YONG CEN ENTERPRISE",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "06/01/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "65.70",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005442361.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "18-03-23",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "593.10",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005442375.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "Unknown",
+                "confidence": 0.5
+            },
+            "total_amount": {
+                "value": "8.50",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005749905.jpg",
+        "data": {
+            "store_name": {
+                "value": "\\",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "10/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005605285.jpg",
+        "data": {
+            "store_name": {
+                "value": "ww",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "22/03/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005676535.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "30/12/2017",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "84.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005719899.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "18-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005441408.jpg",
+        "data": {
+            "store_name": {
+                "value": "32 PUB & BISTRO own by CNU TRADING",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "10-03-2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005663301.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "03/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.95
+            }
+        }
+    },
+    {
+        "file": "X51005757353.jpg",
+        "data": {
+            "store_name": {
+                "value": "31802066",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "23-33-53",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.5
+            }
+        }
+    },
+    {
+        "file": "X51005677329.jpg",
+        "data": {
+            "store_name": {
+                "value": "",
+                "confidence": 0.5
+            },
+            "date": {
+                "value": "12/02/2018",
+                "confidence": 0.9
+            },
+            "total_amount": {
+                "value": "255.00",
+                "confidence": 0.95
+            }
+        }
+    }
+]
