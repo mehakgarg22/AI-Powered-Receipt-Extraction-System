@@ -25,3 +25,5 @@ A system designed to extract structured information (Store Name, Date, Total Amo
 ## 📈 Challenges & Solutions
 - **Noise & Blur:** Applied Fast Non-Local Means Denoising.
 - **Varying Layouts:** Implemented flexible regex to catch amounts regardless of currency symbols or line position.
+
+live link : https://colab.research.google.com/drive/1RHegfqrx3uUem6ld3xnFYzTo2LX02X5t?usp=sharing
